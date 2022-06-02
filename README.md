@@ -7,5 +7,5 @@ En este curso aprenderás a programas en Python
 ## *Requisistos*
 - Python 3.6 o superior
 - Computadora con Windows, Linux o MacIOS
-Editor de texto como [Visual Studio Code](https://code.visualstudio.com/download) 
+- Editor de texto como [Visual Studio Code](https://code.visualstudio.com/download) 
 ----------------------------------------
